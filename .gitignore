@@ -8,6 +8,8 @@ pubspec.lock
 build/
 
 *.iml
-/.idea/
+*.idea/
+/android/gradlew
+/android/gradlew.bat
 .flutter-plugins-dependencies
 flutter_export_environment.sh
